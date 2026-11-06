@@ -27,4 +27,3 @@ resource "local_file" "app_config" {
     Server name : ${random_pet.server.id}
   EOT
 }
-
