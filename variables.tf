@@ -14,4 +14,3 @@ variable "environment" {
     error_message = "environment must be one of: dev, test, staging, prod."
   }
 }
-
